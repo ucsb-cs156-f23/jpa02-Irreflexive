@@ -2,7 +2,7 @@
 
 Repo: https://github.com/ucsb-cs156-f23/jpa02-Irreflexive
 
-Deployed at: https://jpa02-irreflexive.dokku-09.cs.ucsb.edu
+Deployed at: http://jpa02-irreflexive.dokku-09.cs.ucsb.edu
 
 
 # About this repo
